@@ -49,6 +49,6 @@ Hello sir, this console application is a driver's license exam, this application
 
 Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
 
-Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+Project Link: [Driving License Test](https://github.com/Melik-B/DrivingLicenseTest)
 
 <p align="right">-Melik Baykal</p>
