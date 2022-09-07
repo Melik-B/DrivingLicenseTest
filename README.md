@@ -51,4 +51,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [Driving License Test](https://github.com/Melik-B/DrivingLicenseTest)
 
-<p align="right">-Melik Baykal</p>
+<p align="right">-Melik Bayka</p>
